@@ -6,6 +6,9 @@ A new Flutter project.
 
 
 ### IMPORTANT:
+Android application using flutter Framework with Dart, Google Firebase for authentication and Data Handling.
+
+Executing end-to-end development of cross-platform applications with expertise in Flutter, showcasing proficiency in Dart programming, UI/UX design.
 
 For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
 
