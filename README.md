@@ -1,6 +1,6 @@
 # LOFICU
 
-A new Flutter project.
+A new Flutter project
 
 ![Screenshot 2024-02-16 232632](https://github.com/Deepakshandilya/LOFI-CU/assets/103075634/a3d85283-4d54-40d4-9c29-2519ce955562)
 
